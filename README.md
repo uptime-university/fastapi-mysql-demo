@@ -1,4 +1,4 @@
-````markdown name=README.md url=https://github.com/uptime-university/fastapi-mysql-demo/blob/d7729757e9e5805a96f2154d8afbe7116fadcbe2/README.md
+
 # fastapi-mysql-demo
 
 A clean, minimal, and production-minded example of a FastAPI backend using MySQL with SQLAlchemy. This repository demonstrates how to structure a small API project, validate requests with Pydantic, and perform basic CRUD operations against a MySQL database.
